@@ -1,0 +1,92 @@
+[
+  {
+    "regNO": 19211221101,
+    "name": "OISHE MUNTACHIR",
+    "subjects": {
+      "231101": "B-",
+      "231103": "B",
+      "231105": "B-",
+      "231107": "B",
+      "231109": "B-",
+      "231111": "B+",
+      "231113": "B-",
+      "231115": "B",
+      "Exam. Roll": "2194884",
+      "Registration No.": "19211221101",
+      "Result": "Promoted",
+      "Course Code": "Letter Grade"
+    }
+  },
+  {
+    "regNO": 19211221103,
+    "name": "KANIJ  FATEMA",
+    "subjects": {
+      "231101": "C",
+      "231103": "B",
+      "231105": "C",
+      "231107": "B-",
+      "231109": "B-",
+      "231111": "B-",
+      "231113": "Fail",
+      "231115": "B+",
+      "Exam. Roll": "2194885",
+      "Registration No.": "19211221103",
+      "Result": "Promoted",
+      "Course Code": "Letter Grade"
+    }
+  },
+  {
+    "regNO": 19211221104,
+    "name": "FATEMA AKTER",
+    "subjects": {
+      "231101": "Fail",
+      "231103": "B-",
+      "231105": "Fail",
+      "231107": "B",
+      "231109": "C+",
+      "231111": "B",
+      "231113": "D",
+      "231115": "B",
+      "Exam. Roll": "2194886",
+      "Registration No.": "19211221104",
+      "Result": "Promoted",
+      "Course Code": "Letter Grade"
+    }
+  },
+  {
+    "regNO": 19211221106,
+    "name": "TANJINA SULTANA",
+    "subjects": {
+      "231101": "C",
+      "231103": "B",
+      "231105": "C",
+      "231107": "B",
+      "231109": "B-",
+      "231111": "B",
+      "231113": "C+",
+      "231115": "B+",
+      "Exam. Roll": "2194887",
+      "Registration No.": "19211221106",
+      "Result": "Promoted",
+      "Course Code": "Letter Grade"
+    }
+  },
+  {
+    "regNO": 19211221107,
+    "name": "MARWA JAHAN SHOVA",
+    "subjects": {
+      "231101": "C",
+      "231103": "B-",
+      "231105": "Fail",
+      "231107": "B-",
+      "231109": "B-",
+      "231111": "B-",
+      "231113": "C",
+      "231115": "B-",
+      "Exam. Roll": "2194888",
+      "Registration No.": "19211221107",
+      "Result": "Promoted",
+      "Course Code": "Letter Grade"
+    }
+  }
+]
