@@ -80,7 +80,7 @@ async function fetchResults(startRegNo, count) {
 
   // Save results to a JSON file
   fs.writeFileSync(
-    "student_result4.json",
+    "student_result_islamic_studies.json",
     JSON.stringify(results, null, 2),
     "utf-8"
   );
@@ -88,4 +88,4 @@ async function fetchResults(startRegNo, count) {
 }
 
 // Fetch results for 100 students starting from a specific registration number
-fetchResults(19211221250, 30);
+fetchResults(19218221651, 30);
